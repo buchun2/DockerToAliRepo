@@ -14,5 +14,5 @@
 #docker.elastic.co/kibana/kibana:8.17.0
 #gitlab/gitlab-ce:latest
 jenkins/jenkins:2.492.1-lts
-daocloud.io/library/java:8u40-jdk
+java:8u40-jdk
 
