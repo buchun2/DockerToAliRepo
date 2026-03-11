@@ -1,7 +1,6 @@
 #redis:7.4.1
 #nginx:1.27.2
 #mysql:8.4.3
-bitnami/mysql:latest
 #nacos/nacos-server:v2.4.3
 #nacos/nacos-server:v2.1.0
 #redis
@@ -18,5 +17,5 @@ bitnami/mysql:latest
 #jenkins/jenkins:2.492.1-lts
 #bitnami/java:21
 #library/sonarqube:lts-community
-#library/postgres:14.14
+library/postgres:16.4
 
