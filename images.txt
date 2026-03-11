@@ -16,6 +16,6 @@
 #gitlab/gitlab-ce:latest
 #jenkins/jenkins:2.492.1-lts
 #bitnami/java:21
-library/sonarqube:lts-community
-library/postgres:14.14
-
+#library/sonarqube:lts-community
+#library/postgres:14.14
+openclaw@latest
