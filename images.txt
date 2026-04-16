@@ -18,4 +18,4 @@
 #bitnami/java:21
 #library/sonarqube:lts-community
 library/postgres:16.4
-
+library/postgres:latest
